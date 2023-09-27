@@ -2,6 +2,11 @@
 Simple Reverse Proxy in Go
 
 ## Installation
+
+Download pre-build version from [here](https://github.com/mchrisson/rp/releases)
+
+OR
+
 ```
 git clone https://github.com/mchrisson/rp.git
 ```
