@@ -13,11 +13,11 @@
             "args": [
                 "-h", "",
                 "-p", "7869",
-                "-d", "https://pdtk.daily.gsbprint.net"
+                "-d", "https://example.destination.net"
             ],
             "env": {
-                "HTTP_PROXY": "http://web-proxy.sg.hpicorp.net:8080",
-                "HTTPS_PROXY": "http://web-proxy.sg.hpicorp.net:8080",
+                "HTTP_PROXY": "http://proxy.example.net:8080",
+                "HTTPS_PROXY": "http://proxy.example.net:8080",
                 "NO_PROXY": "localhost,127.0.0.1"
             }
         }
